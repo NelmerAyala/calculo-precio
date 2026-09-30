@@ -1,4 +1,4 @@
-"use client";
+export const dynamic = 'force-dynamic';
 
 import { useState, useCallback, useEffect, useMemo, useRef } from "react";
 import Icon from "./Icon";
